@@ -1,8 +1,8 @@
 ############### Blackjack Project #####################
 
-# Blackjack created with Python
+# Justin's Blackjack created with Python
 
-############### Our Blackjack House Rules #####################
+############### Blackjack House Rules #####################
 
 # The deck is unlimited in size. 
 # There are no jokers. 
